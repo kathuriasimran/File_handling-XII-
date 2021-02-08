@@ -1,9 +1,23 @@
-### File_handling-XII
-REPORT CARD MANAGEMENT SYSTEM , CLASS-XII(Project)
+# REPORT CARD MANAGEMENT SYSTEM 
 
 The school requires software to manage records for the report card generation. The software should be able to accept marks and calculate the percentage and the grade of the student and likewise generate a report for the same
 
-Following are the functions created in the program
+### Screenshots
+
+![title](s1.png)
+
+Main Menu Window  
+
+![title](s2.png)
+
+Main Entry Window(Where user can add,alter or delete the records)
+
+![title](s3.png)
+
+Result Window (Where user can see the class result or personal record card)
+
+
+#### Following are the functions created in the program
 
 void createfile();                     //CREATE THE RECORD FILE
 
