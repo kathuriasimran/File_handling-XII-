@@ -1,4 +1,4 @@
-/* BY SIMRAN KATHURIA *?
+/* BY SIMRAN KATHURIA */
 #include<fstream>
 #include<conio.h>
 #include<stdio.h>
